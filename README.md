@@ -1,1 +1,1 @@
-# Customer-Lifetime-Value-Analysis
+# Customer Lifetime Value Analysis
